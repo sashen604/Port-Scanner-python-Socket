@@ -2,7 +2,7 @@
 A simple Python port scanner tool for network security testing
 
 
-Features
+# Features
 
 #Scan a range of ports to check which ones are open.
 
@@ -15,7 +15,8 @@ Features
 #Give the services run in open ports
 
 
-Usage
+# Usage
+
 #python3 port_scanner.py
 
 #Enter the targets or IP address (if multiple ip split with ",")
